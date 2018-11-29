@@ -1,5 +1,4 @@
 # Git Course
-aijhduoashfoah
 
 Este é um repositorio teste
 
